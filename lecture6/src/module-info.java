@@ -4,5 +4,5 @@
 /**
  * 
  */
-module lecture4 {
+module lecture6 {
 }
