@@ -1,5 +1,6 @@
 package exercises;
 
+import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -10,6 +11,7 @@ public class Ex {
 		int number;
 		System.out.println("Number? ");
 		number = scanner.nextInt();
+//		Arrays.sort(number);
 		for (int i=2; i<number; i=i+2) {
 			System.out.print(i + "  "); 		
 		}
@@ -74,6 +76,7 @@ public class Ex {
 				mcase += Character.toLowerCase(c);
 			} else {
 				mcase += Character.toUpperCase(c);
+				
 			}
 		}
 		System.out.println(mcase);

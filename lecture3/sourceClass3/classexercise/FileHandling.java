@@ -23,14 +23,12 @@ public class FileHandling {
 
 		/* Method 1 - writing into a file */
 //        FileWriter fileWriter = new FileWriter("C:\\Users\\rojin\\Desktop\\Epita\\Java\\l3\\test1.txt");
-//	      fileWriter.append("Java programming is easy!");
-//        fileWriter.close();
+//	      fileWriter.write("Java has a content now!!" + "\n");
+//		  fileWriter.append("Appending as a second line!" + "\n");
+//		  fileWriter.write("Java has a content now as a 3rd line!!");
+//		  fileWriter.close();
 		
 		
-		
-		
-		/* Method 2 - writing dynamically */
-//		FileWriter fileobj = new FileWriter("C:\\Users\\rojin\\Desktop\\Epita\\Java\\l3\\test2.txt");
 
 		
 		
@@ -111,16 +109,36 @@ public class FileHandling {
 			e.getStackTrace();
 		}
 		
-		
-		
-		
-		
-		
-		
-		
 		/*
-		 * bufferedWriter using offset - Method 3
+		 * delete the file
 		 */
+		
+//		File filedelete = new File("C:\\Users\\rojin\\Desktop\\Epita\\Java\\l3\\newfile1.txt");
+//		boolean value = filedelete.delete();
+//		if (value) {
+//			System.out.println("The File is deleted.");
+//		} else {
+//			System.out.println("The File is not deleted.");
+//		}
+		
+		
+		// check if it an read/write/get path
+
+				/*
+				 * System.out.println(fileObj1.canRead());
+				 * System.out.println(fileObj1.canWrite());
+				 * System.out.println(fileObj1.getAbsolutePath());
+				 * System.out.println(fileObj1.length());
+				 */
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 	}
 
