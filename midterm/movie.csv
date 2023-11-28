@@ -1,0 +1,16 @@
+﻿movieId,movie_name,rating,availability,price,timing
+A001,Nowhere,3,available,15.25,5pm
+A002,The Dive,4,available,15.25,5pm
+A003,The Black Book,3.5,available,14.25,5pm
+A004,Fast X,4,available,13.25,5pm
+A005,Evil Dead Rise,4.5,not available,15.25,0
+A006,Extraction 2,3.5,not available,15.25,0
+A007,Assassin,2,available,15.25,4:30pm
+A008,Asteroid City,3,available,15.25,4:30pm
+A009,Spider Man,4,available,15.25,3:30pm
+A010,Reptile,3.5,available,15.25,4:30pm
+A011,Elemental,2,available,13.25,3:30pm
+A012,Awarness,2.5,not available,13.25,0
+A013,Creed III,3,available,13.25,5pm
+A014,Spy kids,3.5,not available,14.25,0
+A015,World's Best,4.5,not available,14.25,0

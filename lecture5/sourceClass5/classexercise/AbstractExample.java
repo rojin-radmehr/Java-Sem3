@@ -2,7 +2,7 @@ package classexercise;
 
 import java.util.Scanner;
 
-public abstract class AbstractExample {
+ abstract class AbstractExample {
 	abstract void customerPin();
 	void printInfo() {
 		System.out.println("Abstract class");

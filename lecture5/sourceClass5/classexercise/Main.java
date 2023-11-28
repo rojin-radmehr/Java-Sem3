@@ -14,11 +14,12 @@ public class Main {
 		
 		Bank b = new Bank();
 		b.customerPin();
+		b.printInfo();
 		
 //		InheritanceExample1 in = new InheritanceExample1();
 //		in.inherit();
 //		in.inheritClass1();
-		
+//		
 	}
 
 }

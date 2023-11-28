@@ -3,7 +3,7 @@ package classexercise;
 public class Main {
 
 	public static void main(String[] args) {
-//		ExampleInterface ex = new Child();
+//		ExampleInterface ex = new child();
 //		ex.printInfo();
 		
 //		C c = new C();
